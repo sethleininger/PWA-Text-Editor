@@ -30,6 +30,7 @@ To create this application, I used:
 
 ### Screenshot of Application
 
+![Screenshot 2023-06-05 at 7 57 39 PM](https://github.com/sethleininger/PWA-Text-Editor/assets/122936654/d590c507-f653-43d2-b563-ac37c43f4302)
 
 ## Access
 
